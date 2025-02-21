@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+  --fontFamily: "Roboto";
+}
+
+body {
+  font-family: var(--fontFamily);
+}

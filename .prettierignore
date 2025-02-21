@@ -1,0 +1,23 @@
+# Dependencies
+  node_modules/
+  # Build output
+  dist/
+  dist-ssr/
+  # Configuration files
+  *.config.js
+  *.config.ts
+  tsconfig.json
+  .prettierrc
+  # Generated files
+  *.min.js
+  *.bundle.js
+  # Logs
+  *.log
+  # Environment files
+  .env
+  .env.*
+  # Lock files
+  package-lock.json
+  yarn.lock
+  # Miscellaneous
+  coverage/
